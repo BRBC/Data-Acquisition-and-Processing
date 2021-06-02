@@ -1,0 +1,1 @@
+-force-include-file "Acquisition.c";"c:\Disc D\Anul 3\APD\Proiect\Lab2\SwitchPanels\SwitchPanels\Acquisition.c" -force-include-file "Acquisition.h";"c:\Disc D\Anul 3\APD\Proiect\Lab2\SwitchPanels\SwitchPanels\Acquisition.h" -force-include-file "SwitchPanels.c";"c:\Disc D\Anul 3\APD\Proiect\Lab2\SwitchPanels\SwitchPanels\SwitchPanels.c" 

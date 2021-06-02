@@ -1,0 +1,1 @@
+-force-include-file "Project.c";"d:\Catalina proiect apd\Lab2\Project.c" -force-include-file "Project.h";"d:\Catalina proiect apd\Lab2\Project.h" 

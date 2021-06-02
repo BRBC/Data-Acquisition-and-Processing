@@ -1,0 +1,3 @@
+GetCtrlDisplayBitmap(mainpnl,MAINPNL_CORRGRAPH,1,&imghandle);
+SaveBitmapToJPEGFile(imghandle,"c:\\Users\\Admin\\Desktop\\testCVI.jpg",JPEG_DCTFAST,100);
+DiscardBitmap(imghandle);

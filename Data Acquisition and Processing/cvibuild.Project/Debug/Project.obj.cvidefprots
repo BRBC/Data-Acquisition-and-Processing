@@ -1,0 +1,50 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:37:5"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:57:17"
+
+[MainPanelCallback]
+Class="Function"
+Prototype="int MainPanelCallback(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:120:17"
+
+[OnApply]
+Class="Function"
+Prototype="int OnApply(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:139:17"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:192:17"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:217:17"
+
+[OnPicture]
+Class="Function"
+Prototype="int OnPicture(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:246:17"
+
+[OnPanelSwitch]
+Class="Function"
+Prototype="int OnPanelSwitch(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:273:17"
+
+[OnFrequencyPanel]
+Class="Function"
+Prototype="int OnFrequencyPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:298:17"
+
+[OnFreqAplicaButon]
+Class="Function"
+Prototype="int OnFreqAplicaButon(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Catalina proiect apd\Lab2\Project.c:316:17"
+
